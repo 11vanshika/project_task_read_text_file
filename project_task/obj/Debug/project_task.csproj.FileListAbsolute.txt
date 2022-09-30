@@ -1,0 +1,8 @@
+C:\project\project_task\project_task\bin\Debug\project_task.exe.config
+C:\project\project_task\project_task\bin\Debug\project_task.exe
+C:\project\project_task\project_task\bin\Debug\project_task.pdb
+C:\project\project_task\project_task\obj\Debug\project_task.csproj.AssemblyReference.cache
+C:\project\project_task\project_task\obj\Debug\project_task.csproj.SuggestedBindingRedirects.cache
+C:\project\project_task\project_task\obj\Debug\project_task.csproj.CoreCompileInputs.cache
+C:\project\project_task\project_task\obj\Debug\project_task.exe
+C:\project\project_task\project_task\obj\Debug\project_task.pdb
